@@ -13,7 +13,7 @@ This repo contains all the required files, codes, data and information regarding
 ---
 </div>
 
-# Navigations Links 🔗🙂
+# Navigation Links 🔗🙂
 ### 1. Practical file (docs) <sup>[click me](Practical%20files/AWT_practical_file.docx)<sup>
 ### 2. Practical file (pdf) <sup>[click me](Practical%20files/AWT_practical_file.pdf)<sup>
 ### 3. Mini project report (docx) <sup>[click me](Mini_project/mini_project_report/AWT_mini_project.docx)<sup>
