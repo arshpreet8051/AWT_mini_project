@@ -1,5 +1,18 @@
 ### 🧑🏻‍💻Advanced Web Technologies🖥️ (Awt) Repository
 This repo contains all the required files, codes, data and information regarding the labratory sessions of my subject Advanced Web Technologies.
+<div align="center" style="border: 1px solid black; padding: 10px;">
+  
+----
+  
+### 🧑🏻‍🎓 Student details ⭐
+#### Name: Arshpreet Singh
+#### Stream: D3 IT A1
+#### URN: 2104478
+#### CRN: 212102
+
+---
+</div>
+
 # Navigations Links 🔗🙂
 ### 1. Practical file (docs) <sup>[click me](Practical%20files/AWT_practical_file.docx)<sup>
 ### 2. Practical file (pdf) <sup>[click me](Practical%20files/AWT_practical_file.pdf)<sup>
